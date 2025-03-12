@@ -8,10 +8,13 @@ Bienvenido a mi perfil de GitHub. Aquí podrás ver proyectos personales tanto d
 
 
 
-## Lenguajes de programación 💻
+## 💻 Lenguajes de programación y herramientas 🖥️  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java]()
+![C++]()
+![Git]()
+![Html]()
 
 
 
