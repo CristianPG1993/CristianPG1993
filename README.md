@@ -1,10 +1,18 @@
-# Hola, soy Cristian Paños. 👋
+# Hola, soy Cristian Paños. ✋
 
 
-:smiley: Soy estudiante de FP Grado Superior Desarrollo de Aplicaciones Multiplataforma(DAM)
+📖 Soy estudiante de FP Grado Superior Desarrollo de Aplicaciones Multiplataforma(DAM)
 
 
 Bienvenido a mi perfil de GitHub. Aquí podrás ver proyectos personales tanto del curso como propios, realizados para adquirir conocimientos de programación.
+
+
+
+## Lenguajes de programación 💻
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54")
+
+
 
 
 
