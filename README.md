@@ -1,4 +1,10 @@
-## Hola, soy Cristian Paños. 👋
+# Hola, soy Cristian Paños. 👋
+
+
+## Soy estudiante de FP Grado Superior Desarrollo de Aplicaciones Multiplataforma
+
+
+
 
 <!--
 **CristianPG1993/CristianPG1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
