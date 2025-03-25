@@ -27,9 +27,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y acad
 
 ## 📈 Estadísticas de GitHub
 
-![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical)
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CristianPG1993&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianPG1993&layout=compact&theme=radical)
 
 ---
 
