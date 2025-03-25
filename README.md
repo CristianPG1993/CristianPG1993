@@ -1,4 +1,5 @@
-# 👋 ¡Hola, soy Cristian Paños!
+# 👋 ¡Hola, soy 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7663D&width=350&lines=Cristian+Paños;Desarrollador+DAM;Programador+Python;Entusiasta+de+C%2B%2B" alt="Typing SVG" />
 
 **📖 Estudiante de FP Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
@@ -9,19 +10,14 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y acad
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente estoy enfocado en proyectos personales de desarrollo y aprendizaje.
-- 🌱 Aprendiendo continuamente sobre desarrollo de aplicaciones multiplataforma, asistentes virtuales y ciberseguridad.
+- 🌱 Aprendiendo continuamente sobre desarrollo multiplataforma, asistentes virtuales y ciberseguridad.
 - 💬 Pregúntame sobre Python, C++, asistentes virtuales, y metodologías ágiles.
 
 ---
 
 ## 🛠️ Lenguajes y herramientas
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=54BFFF&width=500&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+Git+%7C+HTML5+%7C+CSS3" alt="Lenguajes animados" />
 
 ---
 
@@ -39,20 +35,3 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y acad
 - 🌐 Web: [nevensaas.es](https://nevensaas.es)
 
 ¡Gracias por visitar mi perfil! 🚀✨
-
-
-
-<!--
-**CristianPG1993/CristianPG1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
