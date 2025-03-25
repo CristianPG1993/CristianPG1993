@@ -1,5 +1,5 @@
-# 👋 ¡Hola, soy 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7663D&width=350&lines=Cristian+Paños;Desarrollador+DAM;Programador+Python;Entusiasta+de+C%2B%2B" alt="Typing SVG" />
+# 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7663D&width=350&lines=Hola+,+soy+Cristian+Paños;Desarrollador+DAM;Programador+Python;Entusiasta+de+C%2B%2B" alt="Typing SVG" />
 
 **📖 Estudiante de FP Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
