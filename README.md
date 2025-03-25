@@ -1,24 +1,44 @@
-# Hola, soy Cristian Paños. ✋
+# 👋 ¡Hola, soy Cristian Paños!
 
+**📖 Estudiante de FP Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
-📖 Soy estudiante de FP Grado Superior Desarrollo de Aplicaciones Multiplataforma(DAM)
+Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y académicos en los que aplico mis conocimientos de programación, desarrollo y lógica para construir soluciones innovadoras.
 
+---
 
-Bienvenido a mi perfil de GitHub. Aquí podrás ver proyectos personales tanto del curso como propios, realizados para adquirir conocimientos de programación.
+## 🚀 Sobre mí
 
+- 🔭 Actualmente estoy enfocado en proyectos personales de desarrollo y aprendizaje.
+- 🌱 Aprendiendo continuamente sobre desarrollo de aplicaciones multiplataforma, asistentes virtuales y ciberseguridad.
+- 💬 Pregúntame sobre Python, C++, asistentes virtuales, y metodologías ágiles.
 
+---
 
-## 💻 Lenguajes de programación y herramientas 🖥️  
+## 🛠️ Lenguajes y herramientas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java]()
-![C++]()
-![Git]()
-![Html]()
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
 
+## 📈 Estadísticas de GitHub
 
+![Cristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical)
+
+---
+
+## 📫 Conéctate conmigo
+
+- ✉️ Correo electrónico: [cristian.panos.gallego@gmail.com](mailto:cristian.panos.gallego@gmail.com)  
+- 🌐 Web: [nevensaas.es](https://nevensaas.es)
+
+¡Gracias por visitar mi perfil! 🚀✨
 
 
 
