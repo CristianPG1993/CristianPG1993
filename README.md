@@ -1,5 +1,5 @@
 # 👋  
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=39A6FF&width=600&lines=Hola,+me+llamo+Cristian+Paños.;Soy+Estudiante+de+FP+DAM.;Desarrollador+Python+y+C%2B%2B.;Apasionado+por+la+programación." alt="Cristian Paños" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=39A6FF&width=600&lines=Hola,+me+llamo+Cristian+Paños.;Soy+Estudiante+de+FP+DAM.;Desarrollador+Java+Python+y+C%2B%2B.;Apasionado+por+la+programación." alt="Cristian Paños" />
 
 **📖 Estudiante de FP Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
