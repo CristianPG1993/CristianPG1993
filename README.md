@@ -1,23 +1,23 @@
-# 👋
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7663D&width=350&lines=Hola+,+soy+Cristian+Paños;Desarrollador+DAM;Programador+Python;Entusiasta+de+C%2B%2B" alt="Typing SVG" />
+# 👋  
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=30&pause=1000&color=39A6FF&width=600&lines=Hola,+me+llamo+Cristian+Paños.;Soy+Estudiante+de+FP+DAM.;Desarrollador+Python+y+C%2B%2B.;Apasionado+por+la+programación." alt="Cristian Paños" />
 
 **📖 Estudiante de FP Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 
-Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y académicos en los que aplico mis conocimientos de programación, desarrollo y lógica para construir soluciones innovadoras.
+Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos personales y académicos donde desarrollo aplicaciones innovadoras, prácticas y eficientes con diferentes lenguajes de programación.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente estoy enfocado en proyectos personales de desarrollo y aprendizaje.
-- 🌱 Aprendiendo continuamente sobre desarrollo multiplataforma, asistentes virtuales y ciberseguridad.
+- 🔭 Actualmente desarrollando proyectos personales y académicos.
+- 🌱 Siempre aprendiendo sobre desarrollo multiplataforma, asistentes virtuales y ciberseguridad.
 - 💬 Pregúntame sobre Python, C++, asistentes virtuales, y metodologías ágiles.
 
 ---
 
 ## 🛠️ Lenguajes y herramientas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=54BFFF&width=500&lines=Python+%7C+C%2B%2B+%7C+Java+%7C+Git+%7C+HTML5+%7C+CSS3" alt="Lenguajes animados" />
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&duration=2000&pause=800&color=F7663D&width=600&lines=Python+•+C%2B%2B+•+Java+•+Git+•+HTML5+•+CSS3" alt="Lenguajes animados" />
 
 ---
 
